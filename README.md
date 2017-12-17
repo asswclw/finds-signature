@@ -1,5 +1,5 @@
 # FindS-Signature
-a tool for  api signature of FindS
+a tool for  api signature of FindS, unofficial
 
 ## Installing
 
@@ -39,6 +39,6 @@ sign ({
 })
 ```
 
-##License
+## License
 
 MIT

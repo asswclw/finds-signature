@@ -1,10 +1,14 @@
 # Change Log
 
+## v0.1.3 (2017/12/18)
+- 优化接口导出方式
+- 代码托管在github上
+
 ## v0.1.2 (2017/12/17)
-- fixed installing description
+- 修正安装描述
 
 ## v0.1.1 (2017/12/17)
-- fixed version error;
+- 修正版本描述错误
 
 ## v0.1.0 (2017/12/17)
-- init version;
+- 初始版本
